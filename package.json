@@ -2,7 +2,19 @@
   "name": "book-store",
   "version": "0.0.0",
   "private": true,
+  "description": "This template should help get you started developing with Vue 3 in Vite.",
+  "homepage": "https://github.com/Fredericra/book-store#readme",
+  "bugs": {
+    "url": "https://github.com/Fredericra/book-store/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredericra/book-store.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "vite.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
