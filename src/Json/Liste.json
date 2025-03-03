@@ -1,0 +1,93 @@
+
+[
+    {
+        "id": 1,
+        "nom": "Le seigneur des anneaux",
+        "description": "Le Seigneur des anneaux est une trilogie cinématographique de fantasy réalisée par Peter Jackson et basée sur le roman du même nom en trois volumes de J. R. R. Tolkien.",
+        "auteur": "J. R. R. Tolkien",
+        "date de publication": "2001",
+        "genre": "Fantasy",
+        "langue": "Français"
+    },
+    {
+        "id": 2,
+        "nom": "Harry Potter",
+        "description": "Harry Potter est une série littéraire de fantasy écrite par l'auteure britannique J. K. Rowling, dont la suite romanesque s'est achevée en 2007.",
+        "auteur": "J. K. Rowling",
+        "date de publication": "1997",
+        "genre": "Fantasy",
+        "langue": "Anglais"
+    },
+    {
+        "id": 3,
+        "nom": "Le petit prince",
+        "description": "Le Petit Prince est une œuvre de langue française, la plus connue d'Antoine de Saint-Exupéry. Publié en 1943 à New York simultanément à sa traduction anglaise.",
+        "auteur": "Antoine de Saint-Exupéry",
+        "date de publication": "1943",
+        "genre": "Conte philosophique",
+        "langue": "Français"
+    },
+    {
+        "id": 4,
+        "nom": "Le loup des mers",
+        "description": "Le Loup des mers est un roman de l'écrivain américain Jack London, publié en 1904.",
+        "auteur": "Jack London",
+        "date de publication": "1904",
+        "genre": "Roman d'aventure",
+        "langue": "Anglais"
+    },
+    {
+        "id": 5,
+        "nom": "Les misérables",
+        "description": "Les Misérables est un roman de Victor Hugo, publié en 1862.",
+        "auteur": "Victor Hugo",
+        "date de publication": "1862",
+        "genre": "Roman historique",
+        "langue": "Français"
+    },
+    {
+        "id": 6,
+        "nom": "Le tour du monde en quatre-vingts jours",
+        "description": "Le Tour du monde en quatre-vingts jours est un roman d'aventures de Jules Verne, publié en 1873.",
+        "auteur": "Jules Verne",
+        "date de publication": "1873",
+        "genre": "Roman d'aventure",
+        "langue": "Français"
+    },
+    {
+        "id": 7,
+        "nom": "Les Trois Mousquetaires",
+        "description": "Les Trois Mousquetaires est un roman d'Alexandre Dumas, publié en 1844.",
+        "auteur": "Alexandre Dumas",
+        "date de publication": "1844",
+        "genre": "Roman historique",
+        "langue": "Français"
+    },
+    {
+        "id": 8,
+        "nom": "Vingt mille lieues sous les mers",
+        "description": "Vingt mille lieues sous les mers est un roman de Jules Verne, publié en 1870.",
+        "auteur": "Jules Verne",
+        "date de publication": "1870",
+        "genre": "Roman d'aventure",
+        "langue": "Français"
+    },
+    {
+        "id": 9,
+        "nom": "Les aventures de Tom Sawyer",
+        "description": "Les Aventures de Tom Sawyer est un roman de Mark Twain, publié en 1876.",
+        "auteur": "Mark Twain",
+        "date de publication": "1876",
+        "genre": "Roman d'aventure",
+        "langue": "Anglais"
+    },
+    {
+        "id": 10,
+        "nom": "Les aventures de Sherlock Holmes",
+        "description": "Les Aventures de Sherlock Holmes est un recueil de nouvelles policières d'Arthur Conan Doyle, publié en 1892.",
+        "auteur": "Arthur Conan Doyle",
+        "date de publication": "1892",
+        "genre": "Roman policier",
+        "langue": "Anglais"
+    }
+]

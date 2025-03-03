@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+
+}
+
+@layer components{
+  .media{
+    @apply grid sm:grid-cols-1 md:grid-cols-12 xl:grid-cols-12 lg:grid-cols-12;
+  }
+  .link
+  {
+    @apply text-blue-900 text-2xl;
+  }
+}
+
+@layer utilities{
+
+}
